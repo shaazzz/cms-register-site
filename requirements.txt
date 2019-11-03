@@ -58,7 +58,7 @@ Mako==1.0.7
 MarkupSafe==1.0
 mccabe==0.6.1
 netifaces==0.10.4
-nltk==3.3
+nltk==3.4.5
 oauthlib==2.0.6
 olefile==0.46
 onboard==1.4.1
