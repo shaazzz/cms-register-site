@@ -87,7 +87,7 @@ pytz==2018.5
 pyxdg==0.25
 PyYAML==3.13
 reportlab==3.5.6
-requests==2.19.1
+requests==2.20.0
 requests-unixsocket==0.1.5
 scour==0.37
 screen-resolution-extra==0.0.0
